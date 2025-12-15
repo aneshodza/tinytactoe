@@ -1,4 +1,4 @@
-# Minimal tictactoe
+# TinyTacToe
 Have you ever wondered how small the needed storage for a game of tictactoe (including its history) is? This project tries to tackle that question
 ## Introduction
 This project is a proof-of-concept on how small a game of tictactoe (including move history) can be encoded without any extra overhead like a Huffman-Tree.  
